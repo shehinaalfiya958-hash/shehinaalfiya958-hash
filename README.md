@@ -1,16 +1,24 @@
-## Hi there 👋
+ # Hi there 👋, I'm Shehina Alfiyah
 
-<!--
-**shehinaalfiya958-hash/shehinaalfiya958-hash** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🔭 I’m working on
+- Web development with **HTML, CSS, JavaScript, React**
+- Python projects for **automation & data analysis**
 
-Here are some ideas to get you started:
+## 🌱 I’m learning
+- **Machine Learning & AI**
+- **Backend development** with Node.js
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 👯 I’m looking to collaborate on
+- Open source web projects
+- Python automation or AI projects
+
+## 💬 Ask me about
+- Web dev, Python, AI, data analysis
+
+## 📫 Contact
+- Email: your-email@example.com
+- LinkedIn: [linkedin.com/in/yourprofile](https://linkedin.com/in/yourprofile)
+
+## ⚡ Fun fact
+- Coffee fuels my coding ☕
+- Love contributing to open source
